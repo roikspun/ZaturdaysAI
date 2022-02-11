@@ -8,4 +8,5 @@ cardio = pd.read_csv('cardio_train.csv', sep=';')
 cardio.shape 
 
 st.write("My first Streamlit App")
-st.dataframe(cardio
+st.dataframe(cardio)
+
