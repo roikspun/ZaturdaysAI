@@ -1,6 +1,6 @@
 # ZaturdaysAI
 
-Borrador README.md
+README.md
 Card.io – Estimador de enfermedad cardiovascular
 
 OBJETIVO:
