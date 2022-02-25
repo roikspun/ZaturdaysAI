@@ -1,12 +1,12 @@
 # Saturdays.AI Zaragoza
 
-# README.md
+# README.md
 Card.io – Estimador de enfermedad cardiovascular
 
 ## OBJETIVO:
 Conocer la existencia o no de enfermedad cardiovascular, de una manera rápida, deslocalizada y sin coste. 
 
-## DESCRIPCIÓN:
+## DESCRIPCIÓN:
 Se parte de un conjunto de datos con características de personas y su diagnóstico de la existencia de enfermedad cardiovascular. Mediante algoritmos de inteligencia artificial se entrena y se crea un modelo que predice la enfermedad cardiovascular. El modelo resultante se combina con Streamlit para introducir datos individuales y devuelve la existencia o no de enfermedad cardiovascular.
 
 ## DATASET:
