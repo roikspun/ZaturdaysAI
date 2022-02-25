@@ -1,9 +1,9 @@
 # Saturdays.AI Zaragoza
 
-README.md
+# README.md
 Card.io – Estimador de enfermedad cardiovascular
 
-OBJETIVO:
+## OBJETIVO:
 Conocer la existencia o no de enfermedad cardiovascular, de una manera rápida, deslocalizada y sin coste. 
 
 ## DESCRIPCIÓN:
@@ -27,19 +27,19 @@ Sklearn
 Se ha utilizado Streamlit para crear un interfaz de comunicación con el usuario en entorno ANACONDA?
 
 # PARTICIPANTES:
-# Erick René Espíndola
-# César Guayara
-# José Antonio Aísa
+* Erick René Espíndola
+* César Guayara
+* José Antonio Aísa
 
 
 
 
-CONCLUSIÓN:
+## CONCLUSIÓN:
 Se generó un algoritmo de inteligencia artificial capaz de predecir la existencia de enfermedad cardiovascular. Las métricas obtenidas arrojan un valor de accuracy de 0,72.
 Como mayores factores de riesgo se observan la edad, para mayores de 50 años, y una presión arterial alta. También el colesterol y el sobre peso, influyen, caso de ser valores muy altos.
 Los algoritmos de IA son válidos y fiables para este tipo de diagnóstico médico basado en datos.
 
-PRÓXIMOS PASOS:
+## PRÓXIMOS PASOS:
 Respecto a los datos, conseguir un dataset local, que mejoraría la precisión al enfocarse en una población determinada con hábitos de vida más comunes.
 Respecto al código, probar otros algoritmos de machine learning y comparar sus métricas para obtener mejores valores de predicción.
 Respecto al interfaz Streamlit, difundirlo entre la población para que se conozca y se tome conciencia del riesgo de padecer enfermedad cardiovascular.
