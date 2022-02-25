@@ -1,4 +1,4 @@
-# ZaturdaysAI
+# Saturdays.AI Zaragoza
 
 README.md
 Card.io – Estimador de enfermedad cardiovascular
@@ -6,18 +6,18 @@ Card.io – Estimador de enfermedad cardiovascular
 OBJETIVO:
 Conocer la existencia o no de enfermedad cardiovascular, de una manera rápida, deslocalizada y sin coste. 
 
-DESCRIPCIÓN:
+## DESCRIPCIÓN:
 Se parte de un conjunto de datos con características de personas y su diagnóstico de la existencia de enfermedad cardiovascular. Mediante algoritmos de inteligencia artificial se entrena y se crea un modelo que predice la enfermedad cardiovascular. El modelo resultante se combina con Streamlit para introducir datos individuales y devuelve la existencia o no de enfermedad cardiovascular.
 
-DATASET:
+## DATASET:
 Obtenido de la página kaggle. El conjunto de datos consta de 70.000 registros de datos de pacientes con 11 características más un objetivo.
 Los valores del conjunto de datos se recopilaron en el momento del examen médico, en 2019.
 https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
 
-MODELOS:
+## MODELOS:
 Se han aplicado modelos de árbol de decisión y random forest, tanto con las variables estándar como variables modificadas para ajustarse más.
 
-REQUERIMIENTOS:
+## REQUERIMIENTOS:
 Se ha utilizado código Python y librerías para análisis, presentación de datos y métricas en entorno COLAB:
 Pandas
 Numpy
@@ -26,10 +26,10 @@ Matplotlib
 Sklearn
 Se ha utilizado Streamlit para crear un interfaz de comunicación con el usuario en entorno ANACONDA?
 
-PARTICIPANTES:
-Erick René Espíndola
-César Guayara
-José Antonio Aísa
+# PARTICIPANTES:
+# Erick René Espíndola
+# César Guayara
+# José Antonio Aísa
 
 
 
