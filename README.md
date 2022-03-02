@@ -22,6 +22,8 @@ Para ver el fichero hacer click [aquí](https://www.kaggle.com/sulianova/cardiov
 
 Se han aplicado modelos de árbol de decisión y random forest, tanto con las variables estándar como variables modificadas para ajustarse más.
 
+Para ver el más detalle de los resultados del proyecto ver el articulo en Medium.com haciendo click [aquí](https://medium.com/@ingenierocesarguayara/card-io-estimador-de-enfermedad-cardiovascular-76919ec753be)
+
 ## REQUERIMIENTOS
 
 Se ha utilizado código Python y bibliotecas para análisis, presentación de datos y métricas en entorno:
