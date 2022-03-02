@@ -5,13 +5,11 @@ import joblib as jb
 import os
 # Limpieza y tratamiento de datos, incluyendo el modelo
 
-# os.system('cardio_analisis.py')
-
 # from Cardio_analisis
 st.set_page_config(page_title='Card.IO - Predicción de Enfermedades Cardiovasculares',
                 page_icon='❤')
 
-cardio = pd.read_csv('/Users/erick/Desktop/Courses/Saturdays.AI/cardio_train.csv', delimiter=';')
+cardio = pd.read_csv('local', delimiter=';')
 cardio_nuevo = cardio[cardio.height>140]
 cardio_nuevo = cardio_nuevo[cardio.height<200]
 # cardio.shape[0]-cardio_nuevo.shape[0]
@@ -166,11 +164,10 @@ user_data = get_user_info()
 st.write('''### Estos son tus datos, que serán ingresados al modelo''', user_data)
 
 # Here we turn the dictionary to a DF using pandas
-# pd.DataFrame(user_data, index=headers.items()).to_csv('/Users/erick/Desktop/Courses/Saturdays.AI/df_user_info.csv', index=False)
-pd.DataFrame(user_data,index=[0]).to_csv('/Users/erick/Desktop/Courses/Saturdays.AI/df_user_info.csv', index=False)
+pd.DataFrame(user_data,index=[0]).to_csv('local/df_user_info.csv', index=False)
 
 
-df_user_info = pd.read_csv('/Users/erick/Desktop/Courses/Saturdays.AI/df_user_info.csv')  # delimiter=';')
+df_user_info = pd.read_csv('local/df_user_info.csv')  # delimiter=';')
 st.write(df_user_info)
 
 st.write('''
