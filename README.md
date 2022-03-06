@@ -39,9 +39,9 @@ Se ha utilizado además **Streamlit** para crear un interfaz de comunicación co
 
 ## PARTICIPANTES
 
-* Erick René Espíndola
-* César Guayara
-* José Antonio Aísa
+* [Erick René Espíndola](www.linkedin.com/in/erespindola/)
+* [César Augusto Guayara](www.linkedin.com/in/cesar-augusto-guayara-lozano-586ba13b/)
+* [José Antonio Aísa](www.linkedin.com/in/jos%C3%A9-antonio-a%C3%ADsa-oliver-5aa6b7142/)
 
 ## CONCLUSIONES
 
