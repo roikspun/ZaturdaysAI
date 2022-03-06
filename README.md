@@ -45,9 +45,14 @@ Se ha utilizado además **Streamlit** para crear un interfaz de comunicación co
 
 ## CONCLUSIONES
 
-* Se generó un algoritmo de inteligencia artificial capaz de predecir la existencia de enfermedad cardiovascular. Las métricas obtenidas arrojan un valor de accuracy de 0,72.
 * Como mayores factores de riesgo se observan la edad, para mayores de 50 años, y una presión arterial alta. También el colesterol y el sobre peso, influyen, caso de ser valores muy altos.
+![Factores de riesgo](FactoresRiesgo.gif)
+
+* Se generó un algoritmo de inteligencia artificial capaz de predecir la existencia de enfermedad cardiovascular. Las métricas obtenidas arrojan un valor de accuracy de 0,72.
+![Diagnostico positivo](DiagnosticoPositivo.gif)
+
 * Los algoritmos de IA son válidos y fiables para este tipo de diagnóstico médico basado en datos.
+![Diagnostico negativo](DiagnosticoNegativo.gif)
 
 ## PRÓXIMOS PASOS
 
